@@ -31,6 +31,7 @@
 </template>
 
 <script>
+/*컴포넌트 정의부분*/
 export default {
   name: 'HelloWorld',
   props: {
