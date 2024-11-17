@@ -11,6 +11,9 @@
     <li><router-link to="/dataBindingSelect">DataBindingSelect</router-link></li>
     <li><router-link to="/dataBindingCheckbox">DataBindingCheckbox</router-link></li>
     <li><router-link to="/dataBindingCheckbox2">DataBindingCheckbox2</router-link></li>
+    <li><router-link to="/dataBindingRadio">DataBindingRadio</router-link></li>
+    <li><router-link to="/dataBindingAttribute">DataBindingAttribute</router-link></li>
+    <li><router-link to="/dataBindingButton">DataBindingButton</router-link></li>
     <router-view/>
   </ul>
   <nav>
